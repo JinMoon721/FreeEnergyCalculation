@@ -7,6 +7,4 @@ Instruction
 3. check the histogram overlap
 
 
-
-Init : save restart
-
+4. ready for running long simulation with initial geometries. run script
